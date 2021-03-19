@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @golubovicluka
 - 👀 I’m interested in Frontend technologies
-- 🌱 I’m currently learning most advanced JavaScript topics
+- 🌱 I’m currently learning advanced JavaScript topics and building projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - send me an email: luka_golubovic@yahoo.com
 
