@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @golubovicluka
 - 💻 Currently employed as a Frontend Software Engineer - Angular
-- 👀 I’m interested in technologies that mostly use Typescript, such as Angular, React, NextJS, Prisma, NestJS etc...
-- 🌱 I’m currently working on advanced JS & TypeScript projects mostly written in TS
+- 👀 I’m interested in Angular & .NET technologies
+- 🌱 I’m currently working on all kinds of full-stack .NET projects with Angular on the frontend
 - 📫 How to reach me - send me an email: luka_golubovic@yahoo.com
 
 <!---
