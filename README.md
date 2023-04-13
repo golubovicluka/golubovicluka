@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @golubovicluka
 - 💻 Currently employed as a Frontend Software Engineer - Angular
 - 👀 I’m interested in everything related to Angular 
-- 🌱 I’m currently working on all kinds of full stack projects (with javascript/typescript) primarily focused on the frontend (Angular)
+- 🌱 I’m currently working on all kinds of full stack projects (with javascript/typescript) with focus on building full stack applications with Angular and NestJS
 - 🛡️ You can also check one of my early-career demo project on bitbucket https://bitbucket.org/luka-golubovic/
 - 📫 How to reach me - send me an email: luka_golubovic@yahoo.com
 
