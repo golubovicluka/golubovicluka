@@ -8,7 +8,5 @@
 - 🛡️ You can also check one of my early-career demo project on bitbucket https://bitbucket.org/luka-golubovic/
 - 📫 How to reach me - send me an email: luka_golubovic@yahoo.com
 
-<!---
-golubovicluka/golubovicluka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://komarev.com/ghpvc/?username=golubovicluka)
