@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAF711&center=true&vCenter=true&width=435&lines=Full+stack+JavaScript+developer)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=gruvbox)](https://git.io/streak-stats)
 - 👋 Hi, I’m @golubovicluka
 - 💻 Currently employed as a Frontend Software Engineer - Angular
