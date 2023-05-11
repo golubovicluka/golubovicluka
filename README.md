@@ -8,8 +8,13 @@
 - 🛡️ You can also check one of my early-career demo project on bitbucket https://bitbucket.org/luka-golubovic/
 - 📫 How to reach me - send me an email: luka_golubovic@yahoo.com
 ---
-## 🔗 Links
+## 🔗 Socials - Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-golubovic/)
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=golubovicluka)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=golubovicluka)
