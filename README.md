@@ -9,7 +9,7 @@
 - 📫 Contact: Send me an email: luka_golubovic@yahoo.com
 ---
 ## 🔗 Socials - Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-golubovic/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagolubovic/)
 
 ---
 
