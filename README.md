@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAF711&center=true&vCenter=true&width=435&lines=Full+stack+Java/Angular+developer)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=neon)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=aura)](https://git.io/streak-stats)
 - 👋 Hi, I’m @golubovicluka
 - 💻 Currently employed as a Software Developer at Software Engineering Lab
 - 👀 I’m interested in everything related to JavaScript and Typescript (Mostly Angular & NestJS/Node/Express)
@@ -13,8 +13,12 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=golubovicluka)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=golubovicluka&show_icons=true&theme=aura)
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=golubovicluka)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golubovicluka&hide_progress=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
