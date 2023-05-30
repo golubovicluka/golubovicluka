@@ -7,9 +7,32 @@
 - 🌱 I’m currently working on all kinds of full stack projects (with javascript/typescript) with focus on building full stack applications with Angular/React and Node/Express/NestJS
 - 🛡️ You can also check one of my early-career demo project on bitbucket https://bitbucket.org/luka-golubovic/
 - 📫 Contact: Send me an email: luka_golubovic@yahoo.com
+
 ---
+
 ## 🔗 Socials - Connect with me
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagolubovic/)
+
+---
+
+## Technologies:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,reactivex,ts,mysql,nodejs,express,javascript,html,css,sass,tailwind,bootstrap,git,kubernetes,jenkins,docker,redis,aws,postgres" />
+  </a>
+</p>
+
+---
+
+## Software:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,vim,ai,ps,figma,postman," />
+  </a>
+</p>
 
 ---
 
