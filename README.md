@@ -30,8 +30,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=golubovicluka)
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golubovicluka&hide_progress=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=golubovicluka)
