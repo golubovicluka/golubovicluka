@@ -16,21 +16,11 @@
 
 ---
 
-## Technologies:
+## Tools & Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,reactivex,ts,mysql,nodejs,express,javascript,html,css,sass,tailwind,bootstrap,git,kubernetes,jenkins,docker,redis,aws,postgres" />
-  </a>
-</p>
-
----
-
-## Software:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,vim,ai,ps,figma,postman," />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,reactivex,ts,mysql,nodejs,express,javascript,prisma,mongodb,html,css,sass,tailwind,bootstrap,git,jenkins,docker,redis,rabbitmq,aws,maven,jest,graphql,postgres,idea,vim,postman" />
   </a>
 </p>
 
