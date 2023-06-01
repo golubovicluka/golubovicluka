@@ -3,7 +3,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=aura)](https://git.io/streak-stats)
 - 👋 Hi, I’m @golubovicluka
 - 💻 Currently employed as a Software Developer at Software Engineering Lab
-- 👀 I’m interested in everything related to JavaScript and Typescript (Mostly Angular & NestJS/Node/Express)
 - 🌱 I’m currently working on all kinds of full stack projects (with javascript/typescript) with focus on building full stack applications with Angular/React and Node/Express/NestJS
 - 🛡️ You can also check one of my early-career demo project on bitbucket https://bitbucket.org/luka-golubovic/
 - 📫 Contact: Send me an email: luka_golubovic@yahoo.com
