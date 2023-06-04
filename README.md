@@ -3,7 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=aura)](https://git.io/streak-stats)
 - 👋 Hi, I’m @golubovicluka
 - 💻 Currently employed as a Software Developer at Software Engineering Lab
-- 🌱 I’m currently working on side projects using mostly Java for the backend, and Angular for the frontend
+- 🌱 Building side projects mostly written in Java for the backend, and Angular for the frontend
 - 🛡️ You can also check one of my early-career demo project on bitbucket https://bitbucket.org/luka-golubovic/
 - 📫 Contact: Send me an email: luka_golubovic@yahoo.com
 
