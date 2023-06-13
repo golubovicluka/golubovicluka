@@ -17,10 +17,24 @@
 
 ## Tools & Technologies
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,reactivex,ts,mysql,nodejs,express,javascript,prisma,mongodb,html,css,sass,tailwind,bootstrap,git,jenkins,docker,redis,rabbitmq,aws,maven,jest,graphql,postgres,idea,vim,postman" />
-  </a>
+Programming Languages:
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=go,java,ts,js" />
+</p>
+
+Frameworks:
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=spring,angular,react,next,tailwind,bootstrap" />
+</p>
+
+Other tools:
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=vim,neovim,hibernate,nodejs,express,prisma,html,css,sass,git,jenkins,docker,redis,rabbitmq,aws,maven,jest,graphql,postman" />
+</p>
+
+Databases:
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" />
 </p>
 
 ---
