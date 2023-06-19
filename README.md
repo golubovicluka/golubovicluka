@@ -24,7 +24,7 @@ Programming Languages:
 
 Frameworks:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=spring,angular,react,next,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=spring,angular,react,svelte,next,tailwind,bootstrap" />
 </p>
 
 Other tools:
