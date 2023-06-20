@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAF711&center=true&vCenter=true&width=435&lines=Full+stack+Software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAF711&center=true&vCenter=true&width=435&lines=Frontend+engineer)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=aura)](https://git.io/streak-stats)
 - 👋 Hi, I’m @golubovicluka
-- 💻 Currently employed as a Software Developer at Software Engineering Lab
+- 💻 Currently employed as a Frontend Engineer at Software Engineering Lab
 - 🛡️ You can also check one of my early-career demo project on bitbucket https://bitbucket.org/luka-golubovic/
 - 📫 Contact: Send me an email: luka_golubovic@yahoo.com
 
@@ -18,12 +18,12 @@
 
 Programming Languages:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,go" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java" />
 </p>
 
 Frameworks:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=react,angular,next,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=angular,react,next,tailwind,bootstrap" />
 </p>
 
 Other tools:
