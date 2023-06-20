@@ -3,7 +3,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=aura)](https://git.io/streak-stats)
 - 👋 Hi, I’m @golubovicluka
 - 💻 Currently employed as a Software Developer at Software Engineering Lab
-- 🌱 Working on large personal project (startup idea) in Go & SvelteKit 👨🏻‍💻
 - 🛡️ You can also check one of my early-career demo project on bitbucket https://bitbucket.org/luka-golubovic/
 - 📫 Contact: Send me an email: luka_golubovic@yahoo.com
 
@@ -19,12 +18,12 @@
 
 Programming Languages:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=java,ts,js" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,go" />
 </p>
 
 Frameworks:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=spring,angular,react,svelte,next,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,angular,next,tailwind,bootstrap" />
 </p>
 
 Other tools:
