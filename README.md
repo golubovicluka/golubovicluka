@@ -23,12 +23,12 @@ Programming Languages:
 
 Frameworks:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=angular,nestjs,react,next" />
+    <img src="https://skillicons.dev/icons?i=angular,nestjs,react,next,express" />
 </p>
 
 Other tools:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,hibernate,nodejs,express,prisma,html,css,sass,git,jenkins,docker,redis,rabbitmq,aws,maven,jest,graphql,postman,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,hibernate,nodejs,prisma,html,css,sass,git,jenkins,docker,redis,rabbitmq,maven,jest,graphql,postman,bootstrap,tailwind" />
 </p>
 
 Databases:
