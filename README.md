@@ -23,7 +23,7 @@ Programming Languages:
 
 Frameworks:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=vuejs,react,next," />
+    <img src="https://skillicons.dev/icons?i=vuejs,nuxt,react,next," />
 </p>
 
 Other tools:
