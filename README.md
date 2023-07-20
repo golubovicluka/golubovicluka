@@ -28,7 +28,7 @@ Frameworks:
 
 Other tools:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,nodejs,express,prisma,html,css,sass,git,docker,jest,graphql,postman,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,nodejs,express,prisma,html,css,sass,git,docker,jest,graphql,postman,tailwind" />
 </p>
 
 Databases:
