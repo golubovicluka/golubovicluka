@@ -7,7 +7,7 @@
 
 ---
 
-## 🔗 Socials - Connect with me
+## 🔗 Socials
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagolubovic/)
 
@@ -17,7 +17,7 @@
 
 Programming Languages:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=ts,js" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go" />
 </p>
 
 Frameworks:
