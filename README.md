@@ -17,12 +17,12 @@
 
 Programming Languages:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=ts,js,go" />
+    <img src="https://skillicons.dev/icons?i=ts,js" />
 </p>
 
 Frameworks:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=vuejs,nuxt,react,next," />
+    <img src="https://skillicons.dev/icons?i=angular,react,next," />
 </p>
 
 Other tools:
