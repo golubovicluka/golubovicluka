@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=vue-dark)](https://git.io/streak-stats)
 - 👋 Hi, I’m @golubovicluka
-- 💻 Currently employed as a Frontend Engineer at Software Engineering Lab
+- 💻 Currently employed as a Frontend Developer at Software Engineering Lab
 - 📫 Contact: Send me an email: luka_golubovic@yahoo.com
 
 ---
