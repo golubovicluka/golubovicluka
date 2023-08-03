@@ -4,6 +4,7 @@
 - 👋 Hi, I’m @golubovicluka
 - 💻 Currently employed as a Frontend Developer at Software Engineering Lab
 - 📫 Contact: Send me an email: luka_golubovic@yahoo.com
+- 📍 Serbia
 
 ---
 
