@@ -3,8 +3,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=vue-dark)](https://git.io/streak-stats)
 - 👋 Hi, I’m Luka, welcome to my github profile
 - 💻 Currently employed as a Frontend Developer at Software Engineering Lab
-- 📫 Contact: Send me an email: luka_golubovic@yahoo.com
-- 📍 Belgrade, Serbia
+- 📫 Contact: luka_golubovic@yahoo.com
+- 📍 Serbia
 
 ---
 
@@ -23,7 +23,7 @@ Programming Languages:
 
 Frameworks:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=react,next,angular" />
+    <img src="https://skillicons.dev/icons?i=react,next,angular,vue,nuxt" />
 </p>
 
 Other tools:
