@@ -1,6 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=golubovicluka&theme=vue-dark)](https://git.io/streak-stats)
-- 👋 Hi, I’m Luka, Software Developer from Serbia
-- 💻 Currently employed as a Software Developer at Software Engineering Lab
+- 💻 Software Developer at Software Engineering Lab
 - 📫 Contact: luka_golubovic@yahoo.com
 - 🌐 Website: https://lukagolubovic.vercel.app/
 
