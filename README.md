@@ -14,7 +14,7 @@
 
 Programming Languages:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=ts,js,java" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,golang" />
 </p>
 
 Frameworks:
