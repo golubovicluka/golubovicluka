@@ -10,28 +10,4 @@
 
 ---
 
-## Tools & Technologies
-
-Programming Languages:
-<p align="start">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,golang" />
-</p>
-
-Frameworks:
-<p align="start">
-    <img src="https://skillicons.dev/icons?i=angular,spring,react,next" />
-</p>
-
-Other tools:
-<p align="start">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,nodejs,express,prisma,html,css,sass,git,jenkins,rabbitmq,redis,docker,jest,graphql,postman,tailwind" />
-</p>
-
-Databases:
-<p align="start">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" />
-</p>
-
----
-
 ![](https://komarev.com/ghpvc/?username=golubovicluka)
