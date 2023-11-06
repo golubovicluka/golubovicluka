@@ -1,4 +1,4 @@
-- 💻 Software Engineer at Software Engineering Lab
+- 💻 Frontend Engineer at Software Engineering Lab
 - 📫 Contact: luka_golubovic@yahoo.com
 - 🌐 Website: https://lukagolubovic.vercel.app/
 
