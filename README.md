@@ -1,5 +1,4 @@
 - 💻 Software Engineer at Software Engineering Lab
-- 🌐 My personal website: https://lukagolubovic.vercel.app/
 
 ---
 
