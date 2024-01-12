@@ -1,6 +1,3 @@
-![golubovicluka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=golubovicluka&theme=radical&hide_border=false)
-
-
 - 💻 Software Engineer at Software Engineering Lab
 
 
