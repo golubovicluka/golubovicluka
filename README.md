@@ -7,7 +7,7 @@
 
 - **Languages:** Java, C#, JavaScript, TypeScript, Python (and a little bit of Go for side projects)
 - **Frameworks:** Spring Boot, Angular, React and NextJS in production (also worked with Express, Fastify & NestJS on side projects)
-- **OS:** Linux, Mac, Windows (for work), but I am mostly on Linux - Fedora 39 with i3wm
+- **OS:** Linux, Mac, Windows (for work)
 
   <p align="center">
   <a href="https://skillicons.dev">
