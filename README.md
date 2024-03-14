@@ -1,6 +1,6 @@
 ## About Me
 
-- 💻 Currently working as a Software Engineer at Software Engineering Lab - Belgrade.
+- 💻 Working as a Software Engineer at Software Engineering Lab - Belgrade.
 - 🎓 Studying Software Engineering in Belgrade
 
 ## Get in Touch
