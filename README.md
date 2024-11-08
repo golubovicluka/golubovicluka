@@ -3,14 +3,14 @@
 I'm a Full Stack Developer specialized in Angular and Java/Node.js microservices architecture, focused on building scalable enterprise applications and RESTful APIs.
 
 ### Technical Expertise
-🔹 Frontend Development: Angular, TypeScript, RxJS, NgRx
-🔹 Backend Development: Java Spring Boot, Node.js, Microservices
-🔹 Testing & Quality: JUnit, Mockito, Integration Testing
+🔹 Frontend Development: Angular, TypeScript, RxJS, NgRx<br>
+🔹 Backend Development: Java, Spring Boot, Node.js, Microservices<br>
+🔹 Testing & Quality: JUnit, Mockito, Integration Testing<br>
 🔹 DevOps & Tools: Git, Jenkins, Maven, Agile methodologies
 
 ### Tech Stack
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,java,spring,nodejs,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,react,nextjs,typescript,nodejs,mongodb,mysql" />
 </p>
 
 ### Featured Projects
@@ -30,16 +30,10 @@ I'm a Full Stack Developer specialized in Angular and Java/Node.js microservices
 - **DevOps:** CI/CD pipelines, Automated testing
 - **Methodologies:** Agile/Scrum
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=golubovicluka&show_icons=true&theme=radical)
-
 ### Recent Activity
 - 🔨 Building scalable microservices architectures
 - 🛠️ Implementing automated testing strategies
 
 ### Get in Touch
-- LinkedIn: [Luka Golubović](https://www.linkedin.com/in/lukagolubovic/)
+- LinkedIn: [Luka Golubović](https://www.linkedin.com/in/lukagolubovic/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagolubovic/)
 
-## Get in Touch
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-- Email: luka_golubovic@yahoo.com
