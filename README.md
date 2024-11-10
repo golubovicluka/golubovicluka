@@ -30,10 +30,6 @@ I'm a Full Stack Developer specialized in Angular and Java/Node.js microservices
 - **DevOps:** CI/CD pipelines, Automated testing
 - **Methodologies:** Agile/Scrum
 
-### Recent Activity
-- 🔨 Building scalable microservices architectures
-- 🛠️ Implementing automated testing strategies
-
 ### Get in Touch
 - LinkedIn: [Luka Golubović](https://www.linkedin.com/in/lukagolubovic/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagolubovic/)
 
