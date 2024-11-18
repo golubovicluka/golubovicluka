@@ -31,5 +31,5 @@ I'm a Full Stack Developer specialized in Angular and Java/Node.js microservices
 - **Methodologies:** Agile/Scrum
 
 ### Get in Touch
-- LinkedIn: [Luka Golubović](https://www.linkedin.com/in/lukagolubovic/)<br>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagolubovic/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagolubovic/)
 
