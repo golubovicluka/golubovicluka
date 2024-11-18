@@ -30,6 +30,14 @@ I'm a Full Stack Developer specialized in Angular and Java/Node.js microservices
 - **DevOps:** CI/CD pipelines, Automated testing
 - **Methodologies:** Agile/Scrum
 
-### Get in Touch
+### 🌟 Core Strengths
+
+Enterprise Architecture: Design and implementation of scalable business solutions
+Team Leadership: Technical mentoring and cross-functional collaboration
+Innovation: Modern tech stack implementation for business optimization
+Quality Assurance: Comprehensive testing strategies and best practices
+
+### 🤝 Let's Connect
+I'm always interested in discussing technology, innovation, and potential collaborations. Reach out on LinkedIn.<br><br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagolubovic/)
 
