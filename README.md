@@ -32,10 +32,10 @@ I'm a Full Stack Developer specialized in Angular and Java/Node.js microservices
 
 ### 🌟 Core Strengths
 
-Enterprise Architecture: Design and implementation of scalable business solutions
-Team Leadership: Technical mentoring and cross-functional collaboration
-Innovation: Modern tech stack implementation for business optimization
-Quality Assurance: Comprehensive testing strategies and best practices
+Enterprise Architecture: Design and implementation of scalable business solutions<br>
+Team Leadership: Technical mentoring and cross-functional collaboration<br>
+Innovation: Modern tech stack implementation for business optimization<br>
+Quality Assurance: Comprehensive testing strategies and best practices<br>
 
 ### 🤝 Let's Connect
 I'm always interested in discussing technology, innovation, and potential collaborations. Reach out on LinkedIn.<br><br>
