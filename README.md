@@ -10,7 +10,7 @@ I'm a Full Stack Developer specialized in Angular and Java/Node.js microservices
 
 ### Tech Stack
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,angular,react,nextjs,typescript,nodejs,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,angular,react,nextjs,typescript,mongodb,mysql" />
 </p>
 
 ### Featured Projects
