@@ -1,16 +1,16 @@
 ### Hi there 👋 
 
-I'm a Full Stack Developer specialized in Angular and Java/Node.js microservices architecture, focused on building scalable enterprise applications and RESTful APIs.
+I'm a Full Stack Developer specialized in Angular and Java, focused on building scalable enterprise applications.
 
 ### Technical Expertise
-🔹 Frontend Development: Angular, TypeScript, RxJS, NgRx<br>
-🔹 Backend Development: Java, Spring Boot, Node.js, Microservices<br>
-🔹 Testing & Quality: JUnit, Mockito, Integration Testing<br>
-🔹 DevOps & Tools: Git, Jenkins, Maven, Agile methodologies
+🔹 Frontend Development: Angular, React, TypeScript, RxJS, NgRx<br>
+🔹 Backend Development: Java, Spring Boot, Python<br>
+🔹 Testing & Quality: JUnit, Mockito, Jest, Cypress<br>
+🔹 DevOps & Tools: Git, Jenkins, Maven, Docker, Kubernetes, Agile methodologies
 
 ### Tech Stack
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,angular,react,nextjs,typescript,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,angular,react,nextjs,typescript,mongodb,mysql,postgresql" />
 </p>
 
 ### Featured Projects
