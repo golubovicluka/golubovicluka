@@ -17,7 +17,7 @@ I'm a Full Stack Developer specialized in Angular and Java, focused on building 
 
 #### 🛍️ Shoply - E-commerce Platform
 - Full-stack e-commerce application showcasing microservices architecture
-- Frontend: Angular 8+, PrimeNG, TypeScript, RxJS
+- Frontend: Angular, PrimeNG, TypeScript, RxJS
 - Backend: GraphQL API, REST endpoints, Data persistence
 - Testing: Comprehensive unit and integration tests using Cypress
 - [View Demo](https://ecommerce-app-angular.netlify.app/)
