@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm a Full Stack Developer specialized in Angular and Java, focused on building scalable enterprise applications.
+I'm a Software Engineer specialized in Java and Angular, focused on building scalable enterprise applications.
 
 ### Technical Expertise
 🔹 Frontend Development: Angular, React, TypeScript, RxJS, NgRx<br>
