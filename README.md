@@ -2,6 +2,8 @@
 
 I'm a Software Engineer focused on building scalable enterprise applications.
 
+[![Luka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=golubovicluka&theme=react-dark)](https://github.com/golubovicluka/github-readme-activity-graph)
+
 ### Technical Expertise
 🔹 Frontend Development: Angular, React, TypeScript, RxJS, NgRx<br>
 🔹 Backend Development: Java, Spring Boot, Node, Golang, Python<br>
