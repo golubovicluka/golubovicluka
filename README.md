@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm a Software Engineer specialized in Java and Angular, focused on building scalable enterprise applications.
+I'm a Software Engineer focused on building scalable enterprise applications.
 
 ### Technical Expertise
 🔹 Frontend Development: Angular, React, TypeScript, RxJS, NgRx<br>
@@ -24,7 +24,7 @@ I'm a Software Engineer specialized in Java and Angular, focused on building sca
 
 ### 🌟 Core Strengths
 
-Enterprise Architecture: Design and implementation of scalable business solutions<br>
+Enterprise Architecture: Design and implementation of scalable enterprise software<br>
 Team Leadership: Technical mentoring and cross-functional collaboration<br>
 Innovation: Modern tech stack implementation for business optimization<br>
 Quality Assurance: Comprehensive testing strategies and best practices<br>
