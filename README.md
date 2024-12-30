@@ -8,7 +8,7 @@
 ## 🛠️ Technical Arsenal
 
 ### Frontend Development
-- **Core**: Angular, React, TypeScript, Next.js
+- **Core**: Angular, React, TypeScript
 - **State Management**: RxJS, NgRx, Redux
 - **Reactive Programming**: RxJS
 - **UI Libraries**: PrimeNG, Angular Material UI, MUI, Chakra UI, shadcn
