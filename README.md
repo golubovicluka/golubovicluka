@@ -24,7 +24,7 @@
 - **CI/CD**: Jenkins, GitHub Actions
 - **Containerization**: Docker, Kubernetes
 - **Build Tools**: Maven, Gradle
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, SVN, GitLab
 - **Methodologies**: Agile, Scrum
 
 ## 💻 Tech Stack
