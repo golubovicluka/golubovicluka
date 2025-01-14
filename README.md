@@ -61,12 +61,6 @@
    * Unit and integration testing
    * Debugging and troubleshooting
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golubovicluka&theme=react" alt="GitHub Streak" />
-</p>
-
 ## 🤝 Connect With Me
 
 <p align="center">
