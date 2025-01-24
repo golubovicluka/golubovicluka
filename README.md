@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Luka 👋</h1>
-<h3 align="center">Software Engineer specializing in scalable enterprise solutions</h3>
+<h3 align="center">Software Engineer specializing in enterprise solutions</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=golubovicluka&theme=react-dark" alt="Luka's GitHub activity"/>
