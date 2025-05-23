@@ -1,9 +1,5 @@
 <h3 align="center">Full Stack Software Engineer specializing in enterprise solutions</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=golubovicluka&theme=react-dark" alt="Luka's GitHub activity"/>
-</p>
-
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,angular,react,nextjs,typescript,mongodb,mysql,postgresql,docker,kubernetes,golang" />
