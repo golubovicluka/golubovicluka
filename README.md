@@ -11,7 +11,7 @@
 
 - 🛍️ **Live Demo**: [View Application](https://ecommerce-app-angular.netlify.app/)
 - 🔧 **Tech Stack**: Angular, Apollo Client, Hasura GraphQL
-- 🧪 **Testing**: Cypress
+- 🧪 **Testing**: Cypress, Jest
 
 ## 🤝 Connect With Me
 
