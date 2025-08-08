@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Software Engineer specializing in enterprise solutions</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 ## 💻 Tech Stack
 <p align="center">
