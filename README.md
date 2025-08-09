@@ -1,18 +1,5 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,angular,react,nextjs,typescript,mongodb,mysql,postgresql,docker,kubernetes,golang" />
-</p>
-
-## 🚀 Featured Projects
-
-### Shoply - E-commerce Platform
-
-- 🛍️ **Live Demo**: [View Application](https://ecommerce-app-angular.netlify.app/)
-- 🔧 **Tech Stack**: Angular, Apollo Client, Hasura GraphQL
-- 🧪 **Testing**: Cypress, Jest
-
 ## 🤝 Connect With Me
 
 <p align="center">
