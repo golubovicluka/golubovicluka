@@ -21,7 +21,7 @@ AI tools are in my toolchain. Their output is untrusted until the code, tests, a
 ## Open these first
 
 - [`Distributed-chat-application`][chat]: Go chat services behind a custom load balancer, WebSockets, Redis pub/sub, SQLite persistence, and a React client.
-- [`IT355-cloud-resource-inventory`][inventory]: Java 21 and Spring MVC inventory for ownership, environments, service relationships, and planned changes. The test suite has 162 tests.
+- [`IT355-cloud-resource-inventory`][inventory]: Java 21 and Spring MVC inventory for ownership, environments, service relationships, and planned changes.
 - [`Architex`][architex]: system design exercises and reviews with Excalidraw, React, Express, and SQLite.
 - [`e-Commerce`][commerce]: Angular storefront backed by Hasura GraphQL and Apollo Client.
 
