@@ -2,11 +2,7 @@
 
 # Luka Golubovic
 
-Software engineer in Belgrade. Building production software since 2021, mostly on enterprise healthcare systems.
-
-Java and Spring Boot on the service side. Angular and React at the edges. RabbitMQ and Redis in the middle, relational databases underneath. The bugs ignore those boundaries.
-
-AI tools are in my toolchain. Their output is untrusted until the code, tests, and docs agree.
+Software engineer in Belgrade. Building production software since 2021.
 
 ## Open these first
 
